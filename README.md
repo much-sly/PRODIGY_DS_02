@@ -14,9 +14,11 @@ In analyzing the Titanic dataset, I explored and categorized data on passengers,
 
 ## CONCLUSIONS.
 Most of the people on board were adults which I categorised between ages 18-40. Below is a plot that shows the disribution of age groups within the entire dataset.
-![Titanic Agegroups](Agegroups.png)
+
+![Titanic Agegroups](Titanic%20Agegroups.png)
 
 Additionally I uncovered that the survival rate for females was higher than that of females showing that their survival was prioritised. Below is the plot that shows that information
+
 ![Titanic Survival Rates](Titanic%20Survival%20Rates.png)
 
 
