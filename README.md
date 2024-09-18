@@ -17,6 +17,6 @@ Most of the people on board were adults which I categorised between ages 18-40. 
 ![Titanic Agegroups](Agegroups.png)
 
 Additionally I uncovered that the survival rate for females was higher than that of females showing that their survival was prioritised. Below is the plot that shows that information
-![Titanic Survival Rates]()
+![Titanic Survival Rates](Titanic%20Survival%20Rates.png)
 
 
